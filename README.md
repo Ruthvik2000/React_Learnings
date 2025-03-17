@@ -6,3 +6,4 @@ In hello_world_recat.html was the main file here :
    ->Parcel created a dev build 
    ->Creates a local server and hosts the app to the server
    ->Automaticaly refershing the age(HMR --> Hot Module Replacement)
+   ->Parcel uses a file watching algorithm which was written in c++ for HMR
