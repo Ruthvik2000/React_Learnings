@@ -2,8 +2,7 @@ In hello_world_recat.html was the main file here :
 <script src="./nested html structure in react.js"></script> ---> the line 28 was the place where we add (or) link up the js file for the execution of react js file.
 
  
-Note:  Using react is not only the reason which is making the app to work faster there are many things.
-
+Note:  Using react ,is not only the reason which is making the app to work faster, there are many things.
 React is an important library that plays a key role in building fast and efficient web applications, it's not the only factor that contributes to the performance of an app
 
 #parcel - Bundler
